@@ -1,0 +1,16 @@
+
+This is an attempt to create a file from VS Code in Ubuntu, which should now be synced, I think...
+
+I've configured Git integration and cloned my hello-world repository with HTTPS (SSH did not work).
+
+I've also updated the Git Config file in Terminal, so that I can let Git know who I am before synching things over the internet
+
+    I'm a little confused about whether it will see me as the original author of the repository, or whether it will look a little different.
+    It's linked to my email, so I don't think it will differentiate between the changes I made on github and the changes I will make in VS Code.
+
+
+
+So I've created this new file, and the file name appears in green text. The U means that the file is new and not tracked by GitHub yet.
+There's a bubble over the Source Control icon, and a note of "1 UNSAVED"
+under OPEN EDITORS in the Explorer.
+
