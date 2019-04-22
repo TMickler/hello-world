@@ -1,0 +1,5 @@
+
+This is a test file created in Visual Studio Community 2017 (Windows 10)
+
+I've cloned my github repository, and am now seeking to create a new file and push changes
+
